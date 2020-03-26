@@ -32,7 +32,7 @@ class Scraper
     end 
   end
 end
-Scraper.new.print_courses
+
 
 
 
@@ -42,7 +42,7 @@ Scraper.new.print_courses
  
 
  
-#Scraper.new.get_page
+
 
   
  # def print_courses
